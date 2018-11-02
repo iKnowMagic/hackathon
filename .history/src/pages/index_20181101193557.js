@@ -13,7 +13,7 @@ const IndexPage = () => (
     </p>
     <p>
     "The internet could be a very positive step towards education, organisation and participation in a meaningful society."
-    ~ Noam Chomsky
+    <br/> ~ Noam Chomsky
     </p>
     <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
       <Image />
